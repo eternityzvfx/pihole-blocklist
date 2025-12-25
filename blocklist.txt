@@ -1,2 +1,2 @@
-google-analytics.com
-baidu.com
+||google-analytics.com^
+||baidu.com^
