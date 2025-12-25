@@ -1,2 +1,2 @@
 google-analytics.com
-baidu.com
+|| baidu.com^
