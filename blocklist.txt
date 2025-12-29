@@ -1,5 +1,7 @@
-||google-analytics.com^
 ||baidu.com^
+||bets.sport1.de^
+||google-analytics.com^
+
 ### dont fall for the e-girls, they are all crazy ###
 ||playvalorant.com^
 ||riotgames.com^
